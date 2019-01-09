@@ -110,5 +110,19 @@ body {
 }
 
 .btn-orange {
-  color: rgba(241, 90, 34, 1);
+  background-color: rgba(241, 90, 34, 1);
+  border-color: rgba(241, 90, 34, 1);
+}
+
+.btn-orange:hover {
+  background-color: rgba(211, 84, 0, 1);
+  border-color: rgba(211, 84, 0, 1);
+}
+
+.text-black {
+  color: #000000;
+}
+
+.text-white {
+  color: #FFFFFF;
 }
