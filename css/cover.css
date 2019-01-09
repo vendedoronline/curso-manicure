@@ -108,3 +108,7 @@ body {
 .mastfoot {
   color: rgba(255, 255, 255, .5);
 }
+
+.btn-orange {
+  color: rgba(241, 90, 34, 1);
+}
